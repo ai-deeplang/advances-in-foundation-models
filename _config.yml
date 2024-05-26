@@ -30,7 +30,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Winter 2022:
+  Large Language Models:
     - 'https://ai-deeplang.github.io/large-language-models/'
 # footer_content:
 
