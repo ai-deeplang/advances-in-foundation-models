@@ -11,7 +11,7 @@ As a reading resource, please find a list of class topics and relevant materials
 
 We broadly organize class topics under three areas: **(1)** [Fundamentals](#fundamentals), **(2)** [Survey of Existing FMs and their Applications](#survey-of-existing-fms-and-their-applications), and **(3)** [Societal Considerations & Impact](#societal-considerations--impact). The list below of relevant readings and materials is not exhaustive; we'll be updating this page as we go through the quarter, and encourage you to dig deeper into the topics that interest you. These topics are also *not in order* of when they'll be covered in class. 
 
-Special thanks to the original content creators, including course notes from a [past version of CS 324](https://stanford-cs324.github.io/winter2022/lectures/).
+Special thanks to the original content creators, including course notes from a [past version of CS 324](https://ai-deeplang.github.io/large-language-models/lectures/).
 
 ---
 
@@ -43,7 +43,7 @@ Special thanks to the original content creators, including course notes from a [
   - [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)
 
 * *Course Notes*:  
-  - [Large Language Model (LLM) Capabilities](https://stanford-cs324.github.io/winter2022/lectures/capabilities/)  
+  - [Large Language Model (LLM) Capabilities](https://ai-deeplang.github.io/large-language-models/lectures/capabilities/)  
 
 * *Blog Posts*:
   - [How Foundation Models Changed Our Work](https://hazyresearch.stanford.edu/blog/2022-11-16-whatsup)
@@ -54,9 +54,9 @@ Special thanks to the original content creators, including course notes from a [
 
 ### How does *data* impact FMs and what are the downstream effects?
 * *Course Notes*:  
-  - [Data for Training FMs](https://stanford-cs324.github.io/winter2022/lectures/data/)
-  - [Harms From Data (Part 1)](https://stanford-cs324.github.io/winter2022/lectures/harms-1/)
-  - [Harms From Data (Part 2)](https://stanford-cs324.github.io/winter2022/lectures/harms-2/)
+  - [Data for Training FMs](https://ai-deeplang.github.io/large-language-models/lectures/data/)
+  - [Harms From Data (Part 1)](https://ai-deeplang.github.io/large-language-models/lectures/harms-1/)
+  - [Harms From Data (Part 2)](https://ai-deeplang.github.io/large-language-models/lectures/harms-2/)
 
 * *Blog Posts*:
   - [Foundation Models are Entering their Data-Centric Era](https://hazyresearch.stanford.edu/blog/2022-10-11-datacentric-fms)
@@ -70,8 +70,8 @@ Special thanks to the original content creators, including course notes from a [
 ### Model Architectures and Training Objectives for FMs  
 
 * *Course Notes*:
-  - [LLM Architectures](https://stanford-cs324.github.io/winter2022/lectures/modeling/)  
-  - [LLM Training Objectives](https://stanford-cs324.github.io/winter2022/lectures/training/)
+  - [LLM Architectures](https://ai-deeplang.github.io/large-language-models/lectures/modeling/)  
+  - [LLM Training Objectives](https://ai-deeplang.github.io/large-language-models/lectures/training/)
 
 * *Blog Posts*:
 
@@ -85,7 +85,7 @@ Special thanks to the original content creators, including course notes from a [
 ### Emergent Behaviors and Capabilities  
 
 * *Course Notes*:  
-  - [Scaling Laws](https://stanford-cs324.github.io/winter2022/assets/pdfs/Scaling%20laws%20pdf.pdf)  
+  - [Scaling Laws](https://ai-deeplang.github.io/large-language-models/assets/pdfs/Scaling%20laws%20pdf.pdf)  
 
 * *Blog Posts*:  
   - [How Does In-context Learning Work?](https://ai.stanford.edu/blog/understanding-incontext/)
@@ -104,7 +104,7 @@ Special thanks to the original content creators, including course notes from a [
 ### Adapting FMs to New Tasks and Data Domains    
 
 * *Course Notes*:
-  - [Adapting Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/adaptation/)  
+  - [Adapting Large Language Models](https://ai-deeplang.github.io/large-language-models/lectures/adaptation/)  
 
 * *Blog Posts*:  
 
@@ -190,7 +190,7 @@ Model Parallelism](https://arxiv.org/abs/1909.08053)
 ### Security and Privacy  
 
 * *Course Notes*:  
-  - [Security and Privacy](https://stanford-cs324.github.io/winter2022/assets/pdfs/Privacy%20pdf.pdf)  
+  - [Security and Privacy](https://ai-deeplang.github.io/large-language-models/assets/pdfs/Privacy%20pdf.pdf)  
 
 * *Blog Posts*:  
 
@@ -203,7 +203,7 @@ Model Parallelism](https://arxiv.org/abs/1909.08053)
 
 ### Environmental Impact 
 * *Course Notes*:  
-  - [Environmental Impact](https://stanford-cs324.github.io/winter2022/lectures/environment/)  
+  - [Environmental Impact](https://ai-deeplang.github.io/large-language-models/lectures/environment/)  
 
 * *Blog Posts*:  
 
@@ -216,7 +216,7 @@ Model Parallelism](https://arxiv.org/abs/1909.08053)
 ### Legal Considerations 
 
 * *Course Notes*:  
-  - [Legality](https://stanford-cs324.github.io/winter2022/lectures/legality/)  
+  - [Legality](https://ai-deeplang.github.io/large-language-models/lectures/legality/)  
 
 * *Blog Posts*:  
   - [From Discrimination in Machine Learning to Discrimination in Law, Part 1: Disparate Treatment](https://ai.stanford.edu/blog/discrimination_in_ML_and_law/)  

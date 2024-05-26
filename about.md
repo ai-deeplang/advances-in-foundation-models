@@ -21,7 +21,7 @@ nav_exclude: True
 
 This website was built in Jekyll using the [Just the Class](https://kevinl.info/just-the-class/), a GitHub Pages template developed for the purpose of quickly deploying course websites. The template is based on the popular [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme, a Jekyll documentation theme.
 
-Parts of this site were also adapted from a prior version of the class, taught in [Winter 2021](https://stanford-cs324.github.io/winter2022/). Others were built with [Copilot](https://github.com/features/copilot).
+Parts of this site were also adapted from a prior version of the class, taught in [Winter 2021](https://ai-deeplang.github.io/large-language-models/). Others were built with [Copilot](https://github.com/features/copilot).
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
